@@ -1,4 +1,4 @@
-##伪代码
+## 伪代码
 ```
 quicksort(A, p, r)
     if p < r
